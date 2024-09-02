@@ -114,5 +114,7 @@ table {
 @media (max-width: 450px) {
 	.table-cell {
 		padding: 2px 5px;
+		font-size: 1.2em;
+		color: #1a1a1a;
 	}
 }
