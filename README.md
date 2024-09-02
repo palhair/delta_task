@@ -1,4 +1,5 @@
 # React + TypeScript + Vite
+vacancy: https://rostov.hh.ru/vacancy/106049550?hhtmFrom=employer_vacancy_responses
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
