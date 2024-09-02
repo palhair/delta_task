@@ -31,7 +31,6 @@ body {
 	margin: 0;
 	display: flex;
 	place-items: center;
-	min-height: 100vh;
 }
 
 h1 {
@@ -117,6 +116,12 @@ table {
 		color: #1a1a1a;
 	}
 	#root {
-		padding: 0px;
+		padding: 2rem 5px;
+	}
+}
+
+@media (min-width: 451px) and (max-widh: 768px) {
+	#root {
+		padding: 2rem 5px;
 	}
 }
