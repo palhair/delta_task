@@ -31,7 +31,6 @@ body {
 	margin: 0;
 	display: flex;
 	place-items: center;
-	min-width: 320px;
 	min-height: 100vh;
 }
 
@@ -118,6 +117,6 @@ table {
 		color: #1a1a1a;
 	}
 	#root {
-		padding: 5px;
+		padding: 0px;
 	}
 }
