@@ -117,4 +117,7 @@ table {
 		font-size: 1.2em;
 		color: #1a1a1a;
 	}
+	#root {
+		padding: 5px;
+	}
 }
