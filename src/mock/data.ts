@@ -39,7 +39,7 @@ const fakeData: TRowData[] = [
 	},
 	{
 		id: '6',
-		title: 'Удаления из чека (после оплаты)б руб',
+		title: 'Удаления из чека (после оплаты), руб',
 		latestValues: [1335, 1545, 1258, 1365, 1477, 1100, 1000],
 		averegeThisWeekDay: 1254,
 	},
